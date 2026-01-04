@@ -1,0 +1,14 @@
+Links
+=====
+
+Module 0: Welcome to the Course!
+--------------------------------
+- Python: https://www.python.org/
+- pip: https://pypi.org/project/pip/
+- uv: https://docs.astral.sh/uv/
+- Tavily: https://tavily.com/
+- Course GitHub repository: https://github.com/langchain-ai/lca-lc-foundations
+- LangSmith: https://eu.smith.langchain.com/
+- LangChain chat model providers: https://docs.langchain.com/oss/python/integrations/providers/all_providers
+- Python dotenv: https://pypi.org/project/python-dotenv/
+- Jupyter: https://jupyter.org/
