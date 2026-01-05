@@ -31,5 +31,22 @@ Module 1: Create Agent
   - Short-term memory: https://docs.langchain.com/oss/python/langchain/short-term-memory
 - Lesson 4: Multimodal Messages
   - Multimodal: https://docs.langchain.com/oss/python/langchain/messages#multimodal
-- Lesson 5: Personal Chef
+- Lesson 5: Personal Chef (Project)
+  - N/A
+
+Module 2: Advanced Agent
+------------------------
+- Lesson 1: Model Context Protocol (MCP)
+  - Model Context Protocol: https://modelcontextprotocol.io/
+  - Transports: https://modelcontextprotocol.io/specification/2025-11-25/basic/transports
+  - MCP servers:
+    - https://github.com/modelcontextprotocol/servers
+    - https://mcpservers.org/
+    - https://mcp.so/
+    - https://www.pulsemcp.com/servers
+- Lesson 2: Context and State
+  - Context engineering: https://docs.langchain.com/oss/python/langchain/context-engineering
+- Lesson 3: Multi-Agent Systems
+  - Multi-agent: https://docs.langchain.com/oss/python/langchain/multi-agent/index
+- Lesson 4: Wedding Planner (Project)
   - N/A
