@@ -12,3 +12,24 @@ Module 0: Welcome to the Course!
 - LangChain chat model providers: https://docs.langchain.com/oss/python/integrations/providers/all_providers
 - Python dotenv: https://pypi.org/project/python-dotenv/
 - Jupyter: https://jupyter.org/
+
+Module 1: Create Agent
+----------------------
+- Lesson 1: Foundation Models
+  - Agents: https://docs.langchain.com/oss/python/langchain/agents
+  - Models: https://docs.langchain.com/oss/python/langchain/models
+  - Messages: https://docs.langchain.com/oss/python/langchain/messages
+  - Structured output: https://docs.langchain.com/oss/python/langchain/structured-output
+  - Streaming: https://docs.langchain.com/oss/python/langchain/streaming
+  - Chat models: https://docs.langchain.com/oss/python/integrations/chat
+- Lesson 2: Tools
+  - Tools: https://docs.langchain.com/oss/python/langchain/tools
+  - LangSmith: https://docs.langchain.com/langsmith/home
+  - Tavily: https://www.tavily.com/
+  - Tools and toolkits (incl. Tavily and others under Search): https://docs.langchain.com/oss/python/integrations/tools
+- Lesson 3: Short-Term Memory
+  - Short-term memory: https://docs.langchain.com/oss/python/langchain/short-term-memory
+- Lesson 4: Multimodal Messages
+  - Multimodal: https://docs.langchain.com/oss/python/langchain/messages#multimodal
+- Lesson 5: Personal Chef
+  - N/A
