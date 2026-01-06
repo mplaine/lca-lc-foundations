@@ -50,3 +50,26 @@ Module 2: Advanced Agent
   - Multi-agent: https://docs.langchain.com/oss/python/langchain/multi-agent/index
 - Lesson 4: Wedding Planner (Project)
   - N/A
+
+Module 3: Production-Ready Agent
+--------------------------------
+- General:
+  - LangChain YouTube: https://www.youtube.com/@LangChain
+  - LangChain blog: https://blog.langchain.dev/
+  - LangChain docs: https://docs.langchain.com/oss/python/langchain/overview
+  - LangSmith for observability and evaluation: https://smith.langchain.com/
+- Lesson 1: What is Middleware?
+  - Overview: https://docs.langchain.com/oss/python/langchain/middleware/overview
+  - Built-in middleware: https://docs.langchain.com/oss/python/langchain/middleware/built-in
+  - Custom middleware: https://docs.langchain.com/oss/python/langchain/middleware/custom
+- Lesson 2: Managing Long Conversations
+  - Long-term memory: https://docs.langchain.com/oss/python/langchain/long-term-memory
+- Lesson 3: Human in the Loop
+  - Human-in-the-Loop (HITL): https://docs.langchain.com/oss/python/langchain/human-in-the-loop
+- Lesson 4: Dynamic Agents
+  - Runtime: https://docs.langchain.com/oss/python/langchain/runtime
+- Lesson 5: Email Assistant (Project)
+  - N/A
+- Lesson 6: Agent Chat UI (Bonus)
+  - Agent Chat UI: https://docs.langchain.com/oss/python/langchain/ui
+  - GitHub repo: https://github.com/langchain-ai/agent-chat-ui
